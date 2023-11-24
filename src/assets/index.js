@@ -1,0 +1,56 @@
+import logo from "./logo.svg";
+import logofooter from "./logofooter.svg";
+import icon from "./logoIcon-removebg-preview.png";
+import kertas from "./svgkertas.png";
+import kertasvertical from "./kertasvertical.svg";
+import menu from "./menu.svg";
+import close from "./close.svg";
+import apple from "./logo.svg";
+import awan from "./awan.svg";
+import awanbottom from "./awanBottom.svg";
+import awancenter from "./awancenter.svg";
+import arrowUp from "./arrow-up.svg";
+import people01 from "./paslon01.svg";
+import people02 from "./people02.png";
+import people03 from "./people03.png";
+import people04 from "./people04.png";
+import ilustrated from "./ilustrated.png";
+import bghero from "./bghero.png";
+// swiper img
+import slide_image_1 from "./images/img__1.jpeg";
+import slide_image_2 from "./images/img__2.jpeg";
+import slide_image_3 from "./images/img__3.jpeg";
+import slide_image_4 from "./images/img__4.jpeg";
+import slide_image_5 from "./images/img__5.jpeg";
+import slide_image_6 from "./images/img__6.jpeg";
+import slide_image_7 from "./images/img__7.jpeg";
+
+export {
+  logo,
+  logofooter,
+  icon,
+  apple,
+  // quotes,
+  kertas,
+  kertasvertical,
+  awan,
+  awanbottom,
+  awancenter,
+  menu,
+  close,
+  arrowUp,
+  people01,
+  people02,
+  people03,
+  people04,
+  bghero,
+  ilustrated,
+  // swiper
+  slide_image_1,
+  slide_image_2,
+  slide_image_3,
+  slide_image_4,
+  slide_image_5,
+  slide_image_6,
+  slide_image_7,
+};
