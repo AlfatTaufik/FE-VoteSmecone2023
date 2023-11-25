@@ -15,7 +15,7 @@ const Check = () => {
               id="cekNIS"
             />
             {/* <label htmlFor="cekNIS">Masukan NIS</label> */}
-            <button type="submit" className="xxs:flex xxs:mx-auto xxs:mt-3 lg:mt-0 md:mx-none lg:absolute font-semibold bg-primary text-white rounded-lg px-[2.5rem] xxs:py-[10px] md:py-[10px] z-10 md:mr-none lg:mr-[1rem] hover:bg-secondary transition delay-200 lg:top-2 left-62 right-44 bottom-2">
+            <button type="submit" className="xxs:flex xxs:mx-auto xxs:mt-3 lg:mt-0 md:mx-none lg:absolute font-semibold bg-primary text-white rounded-lg px-[2.5rem] xxs:py-[10px] md:py-[10px] z-10 md:mr-none lg:mr-[1rem] hover:bg-secondary transition delay-200 lg:top-2 lg:right-20 bottom-2">
               CEK
             </button>
           </form>
