@@ -9,13 +9,18 @@ import apple from "./logo.svg";
 import awan from "./awan.svg";
 import awanbottom from "./awanBottom.svg";
 import awancenter from "./awancenter.svg";
+import awanlogin from "./awanlogin.svg";
 import arrowUp from "./arrow-up.svg";
+import arrowleft from "./Arrow-left.svg";
 import people01 from "./paslon01.svg";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import people04 from "./people04.png";
 import ilustrated from "./ilustrated.png";
 import bghero from "./bghero.png";
+import kertaslogin from "./kertaslogin.png";
+
+
 // swiper img
 import slide_image_1 from "./images/img__1.jpeg";
 import slide_image_2 from "./images/img__2.jpeg";
@@ -33,12 +38,15 @@ export {
   // quotes,
   kertas,
   kertasvertical,
+  kertaslogin,
   awan,
   awanbottom,
   awancenter,
+  awanlogin,
   menu,
   close,
   arrowUp,
+  arrowleft,
   people01,
   people02,
   people03,

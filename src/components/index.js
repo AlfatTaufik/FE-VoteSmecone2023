@@ -10,5 +10,6 @@ import Hero from "./hero/Hero";
 import Check from "./Cek Status/Check";
 import Accordion from "./Accordion";
 import Chart from "./chart/Chart";
+import Login from "./loginPage/Login"
 
-export { Navbar, Accordion, Clients, Reminder, Gallery, Rembutton, Chart, Check, Step, Footer, Hero };
+export { Navbar, Accordion, Clients, Reminder, Gallery, Login, Rembutton, Chart, Check, Step, Footer, Hero };

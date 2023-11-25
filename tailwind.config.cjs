@@ -26,7 +26,7 @@ module.exports = {
       ss: "550px",
       sm: "768px",
       md: "1100px",
-      lg: "1410px",
+      lg: "1400px",
       xl: "1700px",
     },
     borderRadius: {
@@ -34,7 +34,7 @@ module.exports = {
       sm: "0.125rem",
       // DEFAULT: "0.25rem",
       // DEFAULT: "4px",
-      md: "0.75rem",
+      md: "0.95rem",
       lg: "1.5rem",
       xxl: "2.5rem",
       full: "9999px",

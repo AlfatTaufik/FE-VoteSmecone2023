@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Clients, Reminder, Accordion, Footer, Gallery, Chart, Check, Navbar, Step, Hero } from "./components";
+import { Clients, Reminder, Accordion, Footer, Login, Gallery, Chart, Check, Navbar, Step, Hero } from "./components";
 // import { dataSuara } from "./constants"; 
 import { useState } from "react";
 // import FeedbackCard from "./components/FeedbackCard";
@@ -28,6 +28,7 @@ const App = () => (
 
     <div  className={`xxs:hidden md:flex ${styles.flexCenter} md:relative z-100 xxs:top-[5rem] md:top-[2rem] bg-white `}>
       <Step />
+      {/* <Login/> */}
     </div>
 
     <div className={`bg-white ${styles.paddingX} ${styles.flexCenter}`}>
