@@ -1,7 +1,7 @@
 import { React, useState } from "react";
 // import { useState } from "react";
-import styles from "../style";
-import { accordion } from "../constants";
+import styles from "../../style";
+import { accordion } from "../../constants";
 
 const Accordion = () => {
   const [selected, setSelected] = useState(null);

@@ -184,17 +184,17 @@ export const vision = [
     image: people01,
   },
   {
-    name: "Sukuna",
-    visi: "Mengangkat derajat bangsa",
-    proker: "Stand proud you're strong",
-    misi: "Mencapai kemajuan dalam segala bidang",
-    image: people02,
-  },
-  {
     name: "Naruto Uzumaki",
     visi: "Dattebayo",
     proker: "Menumbuhkan persatuan",
     misi: "Melindungi teman-teman dan desa",
+    image: people02,
+  },
+  {
+    name: "Sukuna",
+    visi: "Mengangkat derajat bangsa",
+    proker: "Stand proud you're strong",
+    misi: "Mencapai kemajuan dalam segala bidang",
     image: people03,
   },
   {
@@ -206,5 +206,3 @@ export const vision = [
   },
 ];
 
-  
-// ];

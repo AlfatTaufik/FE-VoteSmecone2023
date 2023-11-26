@@ -85,6 +85,32 @@ body::scrollbar{
   transform: scale(1.1);
 }
 
+/* Modals transition*/
+
+.modal-enter {
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+.modal-enter-active {
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.modal-exit {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.modal-exit-active {
+  opacity: 0;
+  transform: scale(0.8);
+  transition: opacity 300ms, transform 300ms;
+}
+
+
+
 @-webkit-keyframes slide-top {
   0% {
     -webkit-transform: translateY(100px);

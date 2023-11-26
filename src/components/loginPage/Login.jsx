@@ -22,7 +22,7 @@ const Login = () => {
             </a>
           </button>
         </div>
-        <div className=" shadow-lit flex bg-[#FFFFFF] mt-[11rem] rounded-lg py-[1rem] px-[1rem] xxs:mx-auto md:mx-auto lg:mx-auto">
+        <div className=" shadow-lit flex bg-[#FFFFFF] xxs:mt-[11rem] md:mt-[8rem] lg:mt-[11rem] rounded-lg py-[1rem] px-[1rem] xxs:mx-auto md:mx-auto lg:mx-auto">
           <button className="xxs:flex md:hidden flex  absolute bg-primary flex flex-end w-19 h-14 p-5 justify-center items-center gap-6 flex-shrink-0 rounded-lg hover:bg-secondary">
             <a href="">
               <img src={arrowleft} alt="" className="text-white" />
@@ -40,7 +40,7 @@ const Login = () => {
           <div className="flex flex-col">
             <h1 className="text-primary mx-auto uppercase xxs:text-[25px] md:text-[30px] text-center pt-4 pb-[4rem] font-bold">Login</h1>
             <form action="" className="xxs:px-[1rem] md:px-[3rem] lg:px-[4rem]">
-              <input type="text" placeholder="Masukan Nama" className="lg:w-[450px] flex text-primary font-semibold border-2 shadow-pit xxs:px-4 md:px-6 py-3 rounded-md mb-[40px]" />
+              {/* <input type="text" placeholder="Masukan Nama" className="lg:w-[450px] flex text-primary font-semibold border-2 shadow-pit xxs:px-4 md:px-6 py-3 rounded-md mb-[40px]" /> */}
               <input type="number" placeholder="Masukan NIS" className="lg:w-[450px] flex text-primary font-semibold border-2 shadow-pit xxs:px-4 md:px-6 py-3 rounded-md mb-[40px]" />
               <input type="" placeholder="Masukan Email" className="lg:w-[450px] flex text-primary font-semibold border-2 shadow-pit xxs:px-4 md:px-6 py-3 rounded-md" />
               <button type="submit" className="mt-[4rem] uppercase text-white font-bold text-[18px] border-2 bg-primary xxs:w-[265px] md:w-[270px] lg:w-[450px] md:px-none md:px-[1rem] py-[1rem] rounded-xxl mx-auto hover:bg-secondary hover:scale-110">

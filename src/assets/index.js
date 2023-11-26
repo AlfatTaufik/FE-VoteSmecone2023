@@ -30,6 +30,12 @@ import slide_image_5 from "./images/img__5.jpeg";
 import slide_image_6 from "./images/img__6.jpeg";
 import slide_image_7 from "./images/img__7.jpeg";
 
+// Alert
+import Checklist_vote from "./Checklist-pilih.png";
+import Not_vote from "./gagal.png";
+import Checklist_Hijau from "./Checklist_unduh.png";
+import Undefined from "./alert-gaketemu.png";
+// import 
 export {
   logo,
   logofooter,
@@ -61,4 +67,9 @@ export {
   slide_image_5,
   slide_image_6,
   slide_image_7,
+  // alert
+  Checklist_Hijau,
+  Checklist_vote,
+  Not_vote,
+  Undefined,
 };

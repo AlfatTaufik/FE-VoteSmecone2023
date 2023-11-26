@@ -1,6 +1,6 @@
-import styles from "../style";
-import { logofooter } from "../assets";
-import { footerLinks} from "../constants";
+import styles from "../../style";
+import { logofooter } from "../../assets";
+import { footerLinks } from "../../constants";
 
 const Footer = () => (
   <section className={`${styles.flexCenter} flex-col mt-[5rem] pt-[4rem] justify-center items-center`}>
